@@ -1,5 +1,6 @@
 package com.craftsvilla.generic;
 
+//interface that holds constant variables of the project
 public interface AutoConst 
 {
 	String CHROME_KEY = "webdriver.chrome.driver";
